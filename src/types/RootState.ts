@@ -1,9 +1,6 @@
 import { GithubRepoFormState } from 'app/containers/GithubRepoForm/types';
 import { ThemeState } from 'styles/theme/types';
-<<<<<<< HEAD
-=======
 import { ShobhitState } from 'app/containers/Shobhit/types';
->>>>>>> a82d01446a9136d5243ed6f7a132ca0f2fc70e89
 // [IMPORT NEW CONTAINERSTATE ABOVE] < Needed for generating containers seamlessly
 
 /* 
@@ -15,9 +12,6 @@ import { ShobhitState } from 'app/containers/Shobhit/types';
 export interface RootState {
   theme?: ThemeState;
   githubRepoForm?: GithubRepoFormState;
-<<<<<<< HEAD
-=======
   shobhit?: ShobhitState;
->>>>>>> a82d01446a9136d5243ed6f7a132ca0f2fc70e89
   // [INSERT NEW REDUCER KEY ABOVE] < Needed for generating containers seamlessly
 }
