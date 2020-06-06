@@ -10,6 +10,8 @@ export function Masthead() {
     <Wrapper>
       <Logos />
       <Title>React Boilerplate meets CRA</Title>
+      Checkout the  <a href="https://gitlab.com/shobhitgoel27/react-boilerplate-cra-template"> code.</a>
+      Need to update package.json and procfile.
       <Lead>
         Now you can use the{' '}
         <A
