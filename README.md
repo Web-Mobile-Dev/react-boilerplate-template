@@ -7,7 +7,14 @@ with a focus on
 </div>
 
 <br />
-
+<div>
+ Yes, we can deployed the new RBP step-up to heroku.
+- I just update the package.json file from this cloned [repo](https://gitlab.com/shobhitgoel27/react-boilerplate-cra-template/-/blob/master/package.json).
+- Add the heroku [procfile](https://gitlab.com/shobhitgoel27/react-boilerplate-cra-template/-/blob/master/Procfile)
+- and run heroku command. it works fine :)
+</div>
+<br />
+<br />
 <div align="center">
   <a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/actions?query=workflow%3Abuild">
     <img src="https://github.com/react-boilerplate/react-boilerplate-cra-template/workflows/build/badge.svg" alt="Build Status" />
