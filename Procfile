@@ -1,1 +1,1 @@
-web: npm run start:prod
+yarn add react-scripts && web: npm run start:prod
